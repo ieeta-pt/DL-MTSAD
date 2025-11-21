@@ -7,7 +7,7 @@ Learning" authored by Bruna Alves, Armando J. Pinho and Sónia Gouveia, which is
   <img src="https://github.com/ieeta-pt/DL-MTSAD/blob/master/Edge_Bundling.png?raw=true" width="42%">
 </p>
 
-The iterative version of the Sunburst chart is available [here](https://ieeta-pt.github.io/DL-MTSAD/Sunburst.html).
+The iterative version of the Sunburst chart is available [here](https://raw.githack.com/ieeta-pt/DL-MTSAD/refs/heads/master/Sunburst.html?token=GHSAT0AAAAAADPP6GHL3YODJDIVKOUGTHPE2JAG3RA).
 
 The full list of references analysed in this work is available [here](./Reference_List.pdf).
 
